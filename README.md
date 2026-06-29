@@ -82,7 +82,7 @@ curl -s https://packages.wazuh.com/key/GPG-KEY-WAZUH | sudo gpg --dearmor -o /us
 
 **Download and run the installation script:**
 ```bash
-curl -sO https://packages.wazuh.com/4.12/wazuh-install.sh && sudo bash ./wazuh-install.sh -a -i
+curl -sO https://packages.wazuh.com/4.xx/wazuh-install.sh && sudo bash ./wazuh-install.sh -a -i
 ```
 
 - `-a` — installs all components (manager, indexer, dashboard)
