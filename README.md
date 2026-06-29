@@ -135,7 +135,7 @@ Back at the main menu, select `E` to extract the authentication key for the agen
 
 Open **Wazuh Agent Manager** from the Start Menu, enter the Ubuntu VM's IP as the Manager IP, paste the copied key, then save and restart the agent service.
 
-![Windows Agent Configuration](screenshots/04-windows-agent-config.png)
+![Windows Agent Configuration](screenshots/04-windows-agent.png)
 
 ---
 
