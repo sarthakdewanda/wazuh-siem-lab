@@ -308,18 +308,6 @@ Full incident report written using the NIST Cybersecurity Framework 2.0 structur
 
 ---
 
-## Verifying the Setup
-
-**Agents:** Endpoints tab in the dashboard, both agents should show **Active**.
-
-![Agent Active in Dashboard](screenshots/05-agent-active.png)
-
-**FIM:** create, modify, or delete a file inside the monitored folder on the Windows host. Alerts appear under **File Integrity Monitoring → Events** in real time.
-
-![FIM Alerts in Dashboard](screenshots/07-fim-alerts.png)
-
----
-
 ## Resources
 
 - [Wazuh Official Documentation](https://documentation.wazuh.com)
