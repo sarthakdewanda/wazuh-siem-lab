@@ -92,7 +92,7 @@ This lab builds a working SOC pipeline covering:
 
 Run these commands on your Ubuntu VM.
 
-**Add the Wazuh GPG key:**
+**Add the Wazuh GPG key:** 
 ```bash
 curl -s https://packages.wazuh.com/key/GPG-KEY-WAZUH | sudo gpg --dearmor -o /usr/share/keyrings/wazuh-archive-keyring.gpg
 ```
