@@ -304,7 +304,7 @@ Pivoted from the T1033 detection (rule 100010, agent `win-lab`) to that same age
 
 Full incident report written using the NIST Cybersecurity Framework 2.0 structure (Govern, Identify, Protect, Detect, Respond, Recover), covering the T1033 detection, the affected asset, the vulnerability correlation, and remediation steps.
 
-📄 [`Incident Report.md`](Incident Report.md)
+📄 [Incident Report](Incident%20Report.md)
 
 ---
 
